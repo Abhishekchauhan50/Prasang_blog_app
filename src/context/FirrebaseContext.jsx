@@ -14,14 +14,7 @@ const FirebaseConfig = {
 };
 
 
-// const FirebaseConfig = {
-//     apiKey: "AIzaSyBF2ZCWw5dqck1KCfDERUDqgAuFWHmYDu4",
-//     authDomain: "prasang-688d1.firebaseapp.com",
-//     projectId: "prasang-688d1",
-//     storageBucket: "prasang-688d1.appspot.com",
-//     messagingSenderId: "264381863352",
-//     appId: "1:264381863352:web:1b71d9e181ccd4a361ab4d"
-//   };
+
 
 const firebaseContext = createContext()
 
